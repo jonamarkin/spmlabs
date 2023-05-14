@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/mutexbasics/cmake-build-debug"
+			"value" : "c:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/Labs/mutexbasics/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/mutexbasics/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/Labs/mutexbasics/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/mutexbasics"
+			"value" : "C:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/Labs/mutexbasics"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1275,7 +1275,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/mutexbasics/cmake-build-debug"
+			"value" : "C:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/Labs/mutexbasics/cmake-build-debug"
 		},
 		{
 			"name" : "mutexbasics_IS_TOP_LEVEL",
@@ -1299,7 +1299,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/mutexbasics"
+			"value" : "C:/Users/ASUS/Documents/Unipi_Docs/Year_1/Second Sem/SPM/Labs/mutexbasics"
 		}
 	],
 	"kind" : "cache",
